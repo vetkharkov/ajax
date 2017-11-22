@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+#list {
+  display: block;
+  position: fixed;
+  top: 50px;
+  right: 300px;
+  padding: 10px;
+  background: #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px #bdbcb0;
+  margin-right: 10px;
+}
+#list div {
+  margin-bottom: 5px;
+}
+
